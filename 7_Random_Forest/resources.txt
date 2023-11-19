@@ -1,0 +1,6 @@
+Intro to Random Forests
+
+https://www.youtube.com/watch?v=J4Wdy0Wc_xQ&ab_channel=StatQuestwithJoshStarmer
+
+# Hndling missing values and clustering
+https://www.youtube.com/watch?v=sQ870aTKqiM&ab_channel=StatQuestwithJoshStarmer

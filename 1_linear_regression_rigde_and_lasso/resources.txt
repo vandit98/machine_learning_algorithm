@@ -1,0 +1,2 @@
+r2 score -https://medium.com/analytics-vidhya/r-squared-vs-adjusted-r-squared-a3ebc565677b#:~:text=Similar%20to%20R%2Dsquared%2C%20the,useful%20for%20predicting%20the%20target.
+Ridge and laso- https://medium.com/mlearning-ai/ridge-regression-and-lasso-regression-a-beginners-guide-b3e33c77678
